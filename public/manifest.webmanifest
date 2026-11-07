@@ -1,0 +1,13 @@
+{
+  "name": "羊毛雷达 · 全网羊毛实时聚合",
+  "short_name": "羊毛雷达",
+  "description": "实时整合全网羊毛、白菜价、0元购、喜加一",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f1e7",
+  "theme_color": "#e5482f",
+  "icons": [
+    { "src": "/img/logo.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/img/mascot.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "yangmao-radar",
+  "version": "1.0.0",
+  "description": "羊毛雷达 — 全网羊毛实时聚合站",
+  "private": true,
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js",
+    "test:sources": "node scripts/test-sources.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}
